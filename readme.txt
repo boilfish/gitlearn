@@ -4,3 +4,4 @@ add a test
 add meic gg
 add branch
 add branch 2
+conflict test
