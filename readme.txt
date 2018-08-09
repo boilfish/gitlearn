@@ -5,3 +5,4 @@ add meic gg
 add branch
 add branch 2
 conflict test
+no ff test
